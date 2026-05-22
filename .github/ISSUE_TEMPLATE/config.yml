@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: IoT Car Wash API Community Support
+    url: https://github.com/chrisssp/iot-carwash-api/discussions
+    about: Please ask and answer questions here.
